@@ -12,4 +12,5 @@ Model trained using Gensim’s Word2Vec implementation
 
 Exploratory Analysis:
 Find most similar words
-visualize embeddings using PCA or t-SNE (optional)
+visualize embeddings using PCA or t-SNE
+
